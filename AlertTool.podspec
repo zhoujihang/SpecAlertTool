@@ -8,12 +8,12 @@ Pod::Spec.new do |s|
             one line code show alert or toast
                    DESC
 
-  s.homepage     = "https://github.com/zhoujihang/PodSpecDemo.git"
+  s.homepage     = "https://github.com/zhoujihang/SpecAlertTool.git"
   s.license      = "MIT"
   s.author             = { "zhoujihang" => "zhoujihang@ayibang.com" }
   s.platform     = :ios, "6.0"
 
-  s.source       = { :git => "https://github.com/zhoujihang/PodSpecDemo.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/zhoujihang/SpecAlertTool.git", :tag => s.version }
 
   s.source_files  = "AlertTool/**/*.{h,m}"
 
